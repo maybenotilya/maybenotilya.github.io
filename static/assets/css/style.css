@@ -528,7 +528,6 @@ section .container {
 }
 
 .portfolio .portfolio-wrap {
-  height: 50vh;
   transition: 0.3s;
   padding: 2vh 1vw;
   position: relative;
